@@ -1,6 +1,9 @@
-# packtpub-crawler
+# Crawler Master
 
-### Download FREE eBook every day from [www.packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+### Download FREE eBook every day from e-book store
+(https://www.packtpub.com/packt/offers/free-learning)
+You can try another free ebook offers from amazon kindle books, ebook-dl.com,
+ Apress.com (https://www.apress.com/gp/apress-open)
 
 This crawler automates the following step:
 
