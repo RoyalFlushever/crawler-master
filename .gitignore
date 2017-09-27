@@ -1,0 +1,24 @@
+*~
+.DS_Store
+
+.idea
+*.iml
+
+*.pyc
+
+config/prod.cfg
+config/client_secrets.json
+config/auth_token.json
+config/session.onedrive.pickle
+config/lastNewsletterUrl
+
+ebooks/
+node_modules/
+
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
