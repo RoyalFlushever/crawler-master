@@ -158,6 +158,6 @@ if __name__ == '__main__':
 /_/                       /_/
 
 Download FREE eBook every day from www.packtpub.com
-@see github.com/niqdev/packtpub-crawler
+@see github.com/royalflushever/crawler-master
         """)
     main()

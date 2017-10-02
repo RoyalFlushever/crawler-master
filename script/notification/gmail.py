@@ -42,7 +42,7 @@ class Gmail(object):
 
         html += """\
             <img src="{image}" alt="cover" />
-            <div>Powered by <a href="https://github.com/niqdev/packtpub-crawler">packtpub-crawler</a></div>
+            <div>Powered by <a href="https://github.com/royalflushever/crawler-master">packtpub-crawler</a></div>
           </body>
         </html>
         """.format(image=self.__packpub_info['url_image'])
@@ -79,7 +79,7 @@ class Gmail(object):
                        url=self.__packpub_info['landingPageUrl'])
 
         html += """\
-            <div>Powered by <a href="https://github.com/niqdev/packtpub-crawler">packtpub-crawler</a></div>
+            <div>Powered by <a href="https://github.com//royalflushever/crawler-master">packtpub-crawler</a></div>
           </body>
         </html>
         """

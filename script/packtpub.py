@@ -183,7 +183,7 @@ class Packtpub(object):
             filename=self.info['filename'] + '.' + type)
             for type in types]
 
-        # https://github.com/niqdev/packtpub-crawler/pull/27
+        # https://github.com/royalflushever/crawler-master/pull/27
         if self.__config.has_option('path', 'path.group'):
 
             folder_name = self.info['title'].encode('ascii', 'ignore').replace(' ', '_') + \
@@ -201,7 +201,7 @@ class Packtpub(object):
         """
         """
 
-        # https://github.com/niqdev/packtpub-crawler/pull/27
+        # https://github.com/royalflushever/crawler-master/pull/27
         if self.__config.has_option('path', 'path.group'):
 
             folder_name = self.info['title'].encode('ascii', 'ignore').replace(' ', '_') + \
