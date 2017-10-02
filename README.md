@@ -56,9 +56,9 @@ python script/spider.py -c config/prod.cfg --notify gmail --claimOnly
 Before you start you should
 
 * Verify that your currently installed version of Python is **2.x** with `python --version`
-* Clone the repository `git clone https://github.com/niqdev/packtpub-crawler.git`
+* Clone the repository `git clone https://github.com/royalflushever/crawler-master.git`
 * Install all the dependencies (you might need *sudo* privilege) `pip install -r requirements.txt`
-* Create a [config](https://github.com/niqdev/packtpub-crawler/blob/master/config/prod_example.cfg) file `cp config/prod_example.cfg config/prod.cfg`
+* Create a [config](https://github.com/royalflushever/packtpub-crawler/blob/master/config/prod_example.cfg) file `cp config/prod_example.cfg config/prod.cfg`
 * Change your Packtpub credentials in the config file
 ```
 [credential]
